@@ -2,7 +2,6 @@
 
 ```
 bread
-ham
 bread
 ```
 
